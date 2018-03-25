@@ -2,4 +2,4 @@
 Author: Leon Becker
 E-mail: LeonAlexBecker@gmail.com
 
-Final project for CS3340 taught by Karen Mazidi
+Final project for CS3340 taught by Dr. Karen Mazidi
